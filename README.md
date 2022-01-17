@@ -9,4 +9,4 @@ If you do this enough times, the point will convergere towards an image or diver
 ## The Problem
 I was requested to spruce up the front-end.
 
-I could possibly change the color scheme to more black and white, revisit this idea at a later time
+I could possibly change the color scheme to more black and white, revisit this idea at a later time. Currently, main focus should be how to orient the forms and also what font to use. Possibly montserrat
